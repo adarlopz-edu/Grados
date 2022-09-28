@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-    int restart = 1;
         int gradosc, gradosk, gradosf, gradosr;
         cout << "Introduce grados en celcius (C)";
         cin >> gradosc;
